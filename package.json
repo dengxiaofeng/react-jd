@@ -1,0 +1,23 @@
+{
+  "name": "react-jd",
+  "version": "1.0.0",
+  "description": "React Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengxiaofeng/react-jd.git"
+  },
+  "keywords": [
+    "React",
+    "Webpack"
+  ],
+  "author": "xiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengxiaofeng/react-jd/issues"
+  },
+  "homepage": "https://github.com/dengxiaofeng/react-jd#readme"
+}
